@@ -2,7 +2,7 @@ import express from 'express';
 
 const app = express();
 
-// GET = Obter uma informação
+// GET = Obter informações
 // POST = Criar uma informação
 // PUT = Atualizar um informação já existente
 // DELETE = Deletar uma informação já existente
